@@ -20,13 +20,6 @@
 		EFB520EC2085AB34007EDBCF /* WLNewPagingModeMainView.m in Sources */ = {isa = PBXBuildFile; fileRef = EFB520CF2085AB33007EDBCF /* WLNewPagingModeMainView.m */; };
 		EFB520ED2085AB34007EDBCF /* WLNewColumnsView.m in Sources */ = {isa = PBXBuildFile; fileRef = EFB520D02085AB33007EDBCF /* WLNewColumnsView.m */; };
 		EFB520EE2085AB34007EDBCF /* WLNewPagingModeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EFB520D52085AB33007EDBCF /* WLNewPagingModeModel.m */; };
-		EFE3D39C2085FB2C0053F613 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D38C2085FB2C0053F613 /* Assets.xcassets */; };
-		EFE3D39D2085FB2C0053F613 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D38D2085FB2C0053F613 /* ViewController.m */; };
-		EFE3D39E2085FB2C0053F613 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D38E2085FB2C0053F613 /* LaunchScreen.storyboard */; };
-		EFE3D39F2085FB2C0053F613 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D3902085FB2C0053F613 /* Main.storyboard */; };
-		EFE3D3A02085FB2C0053F613 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3922085FB2C0053F613 /* main.m */; };
-		EFE3D3A12085FB2C0053F613 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3932085FB2C0053F613 /* AppDelegate.m */; };
-		EFE3D3A22085FB2C0053F613 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D3942085FB2C0053F613 /* Info.plist */; };
 		EFE3D3CE2085FBF90053F613 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D3B22085FBF90053F613 /* LICENSE */; };
 		EFE3D3CF2085FBF90053F613 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3B52085FBF90053F613 /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		EFE3D3D02085FBF90053F613 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3BE2085FBF90053F613 /* ViewController+MASAdditions.m */; };
@@ -39,6 +32,13 @@
 		EFE3D3D72085FBF90053F613 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3CB2085FBF90053F613 /* MASViewConstraint.m */; };
 		EFE3D3D82085FBF90053F613 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3CC2085FBF90053F613 /* MASViewAttribute.m */; };
 		EFE3D3D92085FBF90053F613 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D3CD2085FBF90053F613 /* README.md */; };
+		EFE3D3E62085FC790053F613 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D3DC2085FC790053F613 /* Assets.xcassets */; };
+		EFE3D3E72085FC790053F613 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3DD2085FC790053F613 /* ViewController.m */; };
+		EFE3D3E82085FC790053F613 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D3DE2085FC790053F613 /* LaunchScreen.storyboard */; };
+		EFE3D3E92085FC790053F613 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D3E02085FC790053F613 /* Main.storyboard */; };
+		EFE3D3EA2085FC790053F613 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3E22085FC790053F613 /* main.m */; };
+		EFE3D3EB2085FC790053F613 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EFE3D3E32085FC790053F613 /* AppDelegate.m */; };
+		EFE3D3EC2085FC790053F613 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EFE3D3E42085FC790053F613 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,15 +88,6 @@
 		EFB520D22085AB33007EDBCF /* WLNewColumnsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLNewColumnsView.h; sourceTree = "<group>"; };
 		EFB520D42085AB33007EDBCF /* WLNewPagingModeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLNewPagingModeModel.h; sourceTree = "<group>"; };
 		EFB520D52085AB33007EDBCF /* WLNewPagingModeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLNewPagingModeModel.m; sourceTree = "<group>"; };
-		EFE3D38B2085FB2C0053F613 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		EFE3D38C2085FB2C0053F613 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EFE3D38D2085FB2C0053F613 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		EFE3D38F2085FB2C0053F613 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		EFE3D3912085FB2C0053F613 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EFE3D3922085FB2C0053F613 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		EFE3D3932085FB2C0053F613 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		EFE3D3942085FB2C0053F613 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EFE3D3952085FB2C0053F613 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		EFE3D3B22085FBF90053F613 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		EFE3D3B42085FBF90053F613 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
 		EFE3D3B52085FBF90053F613 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
@@ -124,6 +115,15 @@
 		EFE3D3CB2085FBF90053F613 /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
 		EFE3D3CC2085FBF90053F613 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
 		EFE3D3CD2085FBF90053F613 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EFE3D3DB2085FC790053F613 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EFE3D3DC2085FC790053F613 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EFE3D3DD2085FC790053F613 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EFE3D3DF2085FC790053F613 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EFE3D3E12085FC790053F613 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EFE3D3E22085FC790053F613 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EFE3D3E32085FC790053F613 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EFE3D3E42085FC790053F613 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFE3D3E52085FC790053F613 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,8 +154,8 @@
 		EFB5205B2085AB02007EDBCF = {
 			isa = PBXGroup;
 			children = (
+				EFE3D3DA2085FC790053F613 /* WLPageViewDemo */,
 				EFE3D3B12085FBF90053F613 /* Masonry */,
-				EFE3D3892085FB2C0053F613 /* WLPageViewDemo */,
 				EFB520992085AB33007EDBCF /* Class */,
 				EFB520652085AB02007EDBCF /* Products */,
 			);
@@ -244,30 +244,6 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		EFE3D3892085FB2C0053F613 /* WLPageViewDemo */ = {
-			isa = PBXGroup;
-			children = (
-				EFE3D38A2085FB2C0053F613 /* WLPageView */,
-			);
-			path = WLPageViewDemo;
-			sourceTree = "<group>";
-		};
-		EFE3D38A2085FB2C0053F613 /* WLPageView */ = {
-			isa = PBXGroup;
-			children = (
-				EFE3D38B2085FB2C0053F613 /* AppDelegate.h */,
-				EFE3D38C2085FB2C0053F613 /* Assets.xcassets */,
-				EFE3D38D2085FB2C0053F613 /* ViewController.m */,
-				EFE3D38E2085FB2C0053F613 /* LaunchScreen.storyboard */,
-				EFE3D3902085FB2C0053F613 /* Main.storyboard */,
-				EFE3D3922085FB2C0053F613 /* main.m */,
-				EFE3D3932085FB2C0053F613 /* AppDelegate.m */,
-				EFE3D3942085FB2C0053F613 /* Info.plist */,
-				EFE3D3952085FB2C0053F613 /* ViewController.h */,
-			);
-			path = WLPageView;
-			sourceTree = "<group>";
-		};
 		EFE3D3B12085FBF90053F613 /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
@@ -308,6 +284,22 @@
 				EFE3D3CC2085FBF90053F613 /* MASViewAttribute.m */,
 			);
 			path = Masonry;
+			sourceTree = "<group>";
+		};
+		EFE3D3DA2085FC790053F613 /* WLPageViewDemo */ = {
+			isa = PBXGroup;
+			children = (
+				EFE3D3DB2085FC790053F613 /* AppDelegate.h */,
+				EFE3D3DC2085FC790053F613 /* Assets.xcassets */,
+				EFE3D3DD2085FC790053F613 /* ViewController.m */,
+				EFE3D3DE2085FC790053F613 /* LaunchScreen.storyboard */,
+				EFE3D3E02085FC790053F613 /* Main.storyboard */,
+				EFE3D3E22085FC790053F613 /* main.m */,
+				EFE3D3E32085FC790053F613 /* AppDelegate.m */,
+				EFE3D3E42085FC790053F613 /* Info.plist */,
+				EFE3D3E52085FC790053F613 /* ViewController.h */,
+			);
+			path = WLPageViewDemo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -415,11 +407,11 @@
 			files = (
 				EFE3D3CE2085FBF90053F613 /* LICENSE in Resources */,
 				EFB520EB2085AB34007EDBCF /* WLNewColumnsViewCollectionViewCell.xib in Resources */,
-				EFE3D39C2085FB2C0053F613 /* Assets.xcassets in Resources */,
+				EFE3D3E62085FC790053F613 /* Assets.xcassets in Resources */,
+				EFE3D3E92085FC790053F613 /* Main.storyboard in Resources */,
+				EFE3D3E82085FC790053F613 /* LaunchScreen.storyboard in Resources */,
 				EFE3D3D92085FBF90053F613 /* README.md in Resources */,
-				EFE3D39F2085FB2C0053F613 /* Main.storyboard in Resources */,
-				EFE3D39E2085FB2C0053F613 /* LaunchScreen.storyboard in Resources */,
-				EFE3D3A22085FB2C0053F613 /* Info.plist in Resources */,
+				EFE3D3EC2085FC790053F613 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -463,12 +455,12 @@
 				EFE3D3D72085FBF90053F613 /* MASViewConstraint.m in Sources */,
 				EFB520E62085AB34007EDBCF /* WLNewBaseView.m in Sources */,
 				EFE3D3D42085FBF90053F613 /* NSArray+MASAdditions.m in Sources */,
-				EFE3D3A12085FB2C0053F613 /* AppDelegate.m in Sources */,
+				EFE3D3EB2085FC790053F613 /* AppDelegate.m in Sources */,
 				EFE3D3D22085FBF90053F613 /* MASConstraintMaker.m in Sources */,
-				EFE3D39D2085FB2C0053F613 /* ViewController.m in Sources */,
+				EFE3D3E72085FC790053F613 /* ViewController.m in Sources */,
 				EFB520ED2085AB34007EDBCF /* WLNewColumnsView.m in Sources */,
+				EFE3D3EA2085FC790053F613 /* main.m in Sources */,
 				EFE3D3D02085FBF90053F613 /* ViewController+MASAdditions.m in Sources */,
-				EFE3D3A02085FB2C0053F613 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -502,18 +494,18 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		EFE3D38E2085FB2C0053F613 /* LaunchScreen.storyboard */ = {
+		EFE3D3DE2085FC790053F613 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				EFE3D38F2085FB2C0053F613 /* Base */,
+				EFE3D3DF2085FC790053F613 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		EFE3D3902085FB2C0053F613 /* Main.storyboard */ = {
+		EFE3D3E02085FC790053F613 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				EFE3D3912085FB2C0053F613 /* Base */,
+				EFE3D3E12085FC790053F613 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -637,7 +629,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5L9DE6VDRE;
-				INFOPLIST_FILE = "$(SRCROOT)/WLPageViewDemo/WLPageView/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/WLPageViewDemo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -655,7 +647,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5L9DE6VDRE;
-				INFOPLIST_FILE = "$(SRCROOT)/WLPageViewDemo/WLPageView/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/WLPageViewDemo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
