@@ -12,7 +12,6 @@
 #define cellId_WL     [NSString stringWithFormat:@"%@cellSection%ldrow%ld",self.class,(long)indexPath.section,(long)indexPath.row]
 #define cellId_wl_ind(k)     [NSString stringWithFormat:@"%@cellSection%ldrow%ld%@",self.class,(long)indexPath.section,(long)indexPath.row,k]
 
-#import "Masonry.h"
 #import "UIView+WExtension.h"
 #import "UIView+WLBlockGesture.h"
 #import "UIView+WLCornerRadius.h"

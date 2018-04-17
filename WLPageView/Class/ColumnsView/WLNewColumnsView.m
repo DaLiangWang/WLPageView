@@ -10,6 +10,8 @@
 #import "WLNewColumnsViewCollectionViewCell.h"
 #import "WLNewColumusMoreItemView.h"
 #import "WL_Macros.h"
+#import "Masonry.h"
+
 @interface WLNewColumnsView ()<UICollectionViewDelegate,UICollectionViewDataSource,UIScrollViewDelegate>{
     UIView *_lineView;
     

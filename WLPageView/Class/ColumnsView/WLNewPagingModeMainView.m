@@ -11,6 +11,7 @@
 #import "WL_Macros.h"
 #import "WLNewPagingModeModel.h"
 #import "WLNewPagingModeMainCollectionViewCell.h"
+#import "Masonry.h"
 
 @interface WLNewPagingModeMainView ()<UICollectionViewDelegate,UICollectionViewDataSource,WLNewColumnsViewWLDelegate>{
     

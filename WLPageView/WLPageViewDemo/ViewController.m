@@ -10,6 +10,7 @@
 #import "WLNewPagingModeMainView.h"
 #import "WL_Macros.h"
 #import "WLNewPagingModeModel.h"
+#import "Masonry.h"
 
 @interface ViewController ()
 @property(nonatomic,strong) WLNewPagingModeMainView *pagingModeMainView;
@@ -43,31 +44,31 @@
     NSString *typeStr = @"1234";
     
     [viewArr addObject:@{@"title":@"全部订单",
-                         @"viewClassName":@"WLMyOrderView",
+                         @"viewClassName":@"WLShowView",
                          @"type":typeStr,}];
     
     [viewArr addObject:@{@"title":@"待付款",
-                         @"viewClassName":@"WLMyOrderView",
+                         @"viewClassName":@"WLShowView",
                          @"type":typeStr,}];
     
     [viewArr addObject:@{@"title":@"待收货",
-                         @"viewClassName":@"WLMyOrderView",
+                         @"viewClassName":@"WLShowView",
                          @"type":typeStr,}];
     
     [viewArr addObject:@{@"title":@"退款/退货",
-                         @"viewClassName":@"WLMyOrderView",
+                         @"viewClassName":@"WLShowView",
                          @"type":typeStr,}];
     
     [viewArr addObject:@{@"title":@"售后",
-                         @"viewClassName":@"WLApplicationSaleView",
+                         @"viewClassName":@"WLShowView",
                          @"type":typeStr,}];
     
     [viewArr addObject:@{@"title":@"已完成",
-                         @"viewClassName":@"WLMyOrderView",
+                         @"viewClassName":@"WLShowView",
                          @"type":typeStr,}];
     
     [viewArr addObject:@{@"title":@"关闭/取消",
-                         @"viewClassName":@"WLMyOrderView",
+                         @"viewClassName":@"WLShowView",
                          @"type":typeStr,}];
     
     

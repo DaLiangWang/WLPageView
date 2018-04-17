@@ -10,6 +10,7 @@
 #import "WLNewColumnsButton.h"
 #import <objc/runtime.h>
 #import "WL_Macros.h"
+#import "Masonry.h"
 
 @interface WLNewColumusMoreItemView (){
     WLNewPagingModeModel *_itemModel;

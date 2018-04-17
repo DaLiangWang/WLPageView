@@ -8,6 +8,8 @@
 
 #import "WLNewColumnsViewCollectionViewCell.h"
 #import "WL_Macros.h"
+#import "Masonry.h"
+
 @interface WLNewColumnsViewCollectionViewCell ()
 @property (weak, nonatomic) IBOutlet UILabel *title;
 @property(nonatomic,strong) UIView *lineView;

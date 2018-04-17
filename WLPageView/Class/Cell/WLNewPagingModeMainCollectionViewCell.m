@@ -9,6 +9,7 @@
 #import "WLNewPagingModeMainCollectionViewCell.h"
 #import "WLNewBaseView.h"
 #import "WL_Macros.h"
+#import "Masonry.h"
 
 @implementation WLNewPagingModeMainCollectionViewCell{
     id _viewSan;
