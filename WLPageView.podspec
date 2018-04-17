@@ -9,6 +9,7 @@ Pod::Spec.new do |s|
     s.platform     = :ios, '8.0'
     s.source       = {:git => 'https://github.com/DaLiangWang/WLPageView.git', :tag => s.version}
     s.source_files = 'WLPageView/Class/**/*.{h,m}'
+    s.resources = 'WLPageView/Class/**/*.xib'
     # s.public_header_files = 'WLPageView/Class/Category/WL_Macros.h'
     s.requires_arc = true
     s.dependency "Masonry"

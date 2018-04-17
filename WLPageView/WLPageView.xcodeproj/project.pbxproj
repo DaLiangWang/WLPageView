@@ -193,11 +193,11 @@
 		EFB520C82085AB33007EDBCF /* Cell */ = {
 			isa = PBXGroup;
 			children = (
-				EFB520C92085AB33007EDBCF /* WLNewColumnsViewCollectionViewCell.m */,
-				EFB520CA2085AB33007EDBCF /* WLNewPagingModeMainCollectionViewCell.m */,
-				EFB520CB2085AB33007EDBCF /* WLNewColumnsViewCollectionViewCell.xib */,
 				EFB520CC2085AB33007EDBCF /* WLNewPagingModeMainCollectionViewCell.h */,
+				EFB520CA2085AB33007EDBCF /* WLNewPagingModeMainCollectionViewCell.m */,
 				EFB520CD2085AB33007EDBCF /* WLNewColumnsViewCollectionViewCell.h */,
+				EFB520C92085AB33007EDBCF /* WLNewColumnsViewCollectionViewCell.m */,
+				EFB520CB2085AB33007EDBCF /* WLNewColumnsViewCollectionViewCell.xib */,
 			);
 			path = Cell;
 			sourceTree = "<group>";
